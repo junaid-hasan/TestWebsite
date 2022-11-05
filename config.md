@@ -13,7 +13,7 @@ generate_rss = true
 website_title = "Junaid Hasan"
 website_descr = "Junaid Hasan landing page"
 prepath = "TestWebsite"
-website_url="junaid-hasan.github.io"
+website_url="https://junaid-hasan.github.io/"
 +++
 
 <!--
