@@ -1,4 +1,4 @@
-Sitemap: junaid-hasan.github.io/sitemap.xml
+Sitemap: https://junaid-hasan.github.io/sitemap.xml
 
 User-agent: *
 Disallow:
