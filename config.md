@@ -12,7 +12,8 @@ ignore = ["node_modules/"]
 generate_rss = true
 website_title = "Junaid Hasan"
 website_descr = "Junaid Hasan landing page"
-website_url   = "https://junaidhasan.xyz/"
+prepath = "TestWebsite"
+website_url="junaid-hasan.github.io"
 +++
 
 <!--
