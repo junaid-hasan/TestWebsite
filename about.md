@@ -9,7 +9,7 @@
 
 PhD student studying Mathematics at the University of Washington, Seattle.
 
-Email me: [junaid01@uw.edu](mailto:junaid01@uw.edu)
+Email me: [junaid01ATuwDOTedu](mailto:junaid01@uw.edu)
 
 I finished my undergraduate in 2019 from the Indian Institute of Science, Bengaluru, India.
 
